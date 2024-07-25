@@ -1,0 +1,12 @@
+.board{
+  display: grid;
+  gap: 5px;
+}
+.cell{
+  height: 50px;
+  width: 50px;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
